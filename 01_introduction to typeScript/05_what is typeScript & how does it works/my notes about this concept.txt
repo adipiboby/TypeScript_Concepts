@@ -1,1 +1,24 @@
-HEllo hi every one khvk kjsdbgfkjsd kjfseefouuew     kbsoudbqwuob  iebdia iuabsxuobas
+.TypeScript developed by microsoft
+ => build on top of javaScript 
+ => used to build large projects 
+ =>typeScript adds features on javaScript
+ 
+ 
+when we use => node app.js :then node will run app.js
+when we use => code app.js :then vs code will run
+
+
+
+when we use @ts-check 
+ in js file then we can use typeScript in js file
+ ex: when we declare a string in  variable we can't change to number because we use @ts-check 
+
+
+Important thing :
+                  when we place on a variable we get suggestions that suggestion are coming from typeScript server 
+
+How to see them :
+                 when open terminal we see output option 
+                 In that there is selection box inside that there is  many options 
+                 select typescript and main thing is you will setting symbol in that check trace 
+                 then when we hover on variable you will get suggestion then in out put youn will see how request is going to typescript server.  
