@@ -3,4 +3,5 @@
 
 let user = "boby"
 console.log(user)
-user
+user=5
+
