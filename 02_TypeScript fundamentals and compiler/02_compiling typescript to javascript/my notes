@@ -1,3 +1,6 @@
-//typescript compiler is not a compiler it is a transilator 
+//typescript compiler is not a compiler it is a transilator
 //we are using "tsc" command it compile every ts file in folder
 //when error occur in a file we hover on that we get suggestion, at background ts server is running and giving suggestion, this server only give suggestions which file we open not on all files like tsc. this ts server at background is optimized solution
+
+//defaculty i face
+//vs code not auto saving ts code that why i not see  error in terminal first save the file then use tsc
