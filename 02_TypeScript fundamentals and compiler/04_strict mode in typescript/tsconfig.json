@@ -6,6 +6,7 @@
     "pretty": true,
     "outDir": "./dist",
     "rootDir": "./src",
-   
+  //  "strictNullChecks": true,
+  //  "noImplicitAny": true  //no variable should not have any, that means not accepting every datatype only what we define when creating variable
   }
 }

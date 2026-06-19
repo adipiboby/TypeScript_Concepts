@@ -3,3 +3,5 @@
 //if error in ts file and in terminal ts compiler error should look same if the version are different we see like in ts file we not see any error when we compile we see error for that we should install latest versions
 
 //npm i -g typescript@next ,this the command i used to install latest version for terminal compiler and selecting same version in  vscode for ts language server
+
+//here final point is terminal tsc and lanuage server version should be same then click contol shift p then typescript verion then you will get verions click updated one in terminal use tsc -v then see that and update using npm we written in last point
