@@ -2,7 +2,7 @@
 let a = 10;
 console.log(a);
 function printName(name) {
-    console.log(name.toUpperCase);
+    console.log(name.toUpperCase());
 }
 printName("manoj");
 //# sourceMappingURL=index.js.map
