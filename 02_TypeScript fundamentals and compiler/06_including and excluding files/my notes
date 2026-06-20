@@ -1,0 +1,13 @@
+1.in tsconfig.json in that we are seeing exclude option it will tell that if we want to remove any testfiles while compiling to js  then we use that 
+
+ex:"exclude": ["src/**/*.test.ts"]
+
+we are seeing "**" : it mean in any folder there is any test.ts files remove them .
+
+ "*.test.ts" : it means before 
+anyname.test.js  anyname ending with test.js then it will be removed 
+
+
+2.In tsconfig.json in that we are seeing include it means which file should compile to js 
+
+ex:  "include": ["./src/index.ts","./src/app.ts"]
