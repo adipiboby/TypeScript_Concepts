@@ -27,3 +27,14 @@
 
 // top types 
 // that means they will accept any datatype thats why they are top types
+
+// let a=5;
+
+// if(typeof a==="number"){
+//     console.log(a)
+// }else{
+//     let b:String =a;
+//     console.log(b)
+// }
+
+//in above code else state is a subtype because in if condition if it is not number is not matched then it will come to else that why we are calling as subtype  or bottom type in else what type we mention that type only will accept suppose string 
