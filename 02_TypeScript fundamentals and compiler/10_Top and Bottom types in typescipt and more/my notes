@@ -1,19 +1,29 @@
-any datatype -> This variable accepts any type of data type 
-unknown datatype -> this variable accepts any data type in 
+//any datatype -> This variable accepts any type of data type 
+//unknown datatype -> this variable accepts any data type in 
 
-differents any and unknown
+//differents any and unknown
 
-In any data type we can access methods 
+//In any data type we can access methods 
 
-but unknown data type we can't access methods
+//but unknown data type we can't access methods
 
 
-example:
-        let a:any = 5;
-        let b:unknown = 2;
+// example:
+//         let a:any = 5;
+//         let b:unknown = 2;
         
-        a="hi"
-        b="bye"
+//         a="hi"
+//         b="bye"
 
-        a.toUpperCase()//we can access toUpperCase method
-        b.toUpperCase()//we can'nt access toUpperCase method
+//         a.toUpperCase()//we can access toUpperCase method
+//         b.toUpperCase()//we can'nt access toUpperCase method
+
+
+//       // now we can use methods when we use if condition
+//        //this is called as type narrowing  if we use if and else type checking  get stoped 
+//         if(typeof b === "number"){
+//             console.log(b.toString()) //here we can use methods
+//         }
+
+// top types 
+// that means they will accept any datatype thats why they are top types
