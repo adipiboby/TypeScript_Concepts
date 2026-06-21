@@ -6,3 +6,14 @@ differents any and unknown
 In any data type we can access methods 
 
 but unknown data type we can't access methods
+
+
+example:
+        let a:any = 5;
+        let b:unknown = 2;
+        
+        a="hi"
+        b="bye"
+
+        a.toUpperCase()//we can access toUpperCase method
+        b.toUpperCase()//we can'nt access toUpperCase method
