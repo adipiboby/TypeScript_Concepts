@@ -1,0 +1,8 @@
+any datatype -> This variable accepts any type of data type 
+unknown datatype -> this variable accepts any data type in 
+
+differents any and unknown
+
+In any data type we can access methods 
+
+but unknown data type we can't access methods
